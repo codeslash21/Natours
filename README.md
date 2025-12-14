@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/c6e2fa46-5f80-4397-92fb-3f1ea46dca28/deploy-status)](https://app.netlify.com/sites/omnifoods-code/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c6e2fa46-5f80-4397-92fb-3f1ea46dca28/deploy-status)](https://app.netlify.com/projects/envtour/deploys)
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
